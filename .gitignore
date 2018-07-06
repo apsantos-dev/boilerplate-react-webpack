@@ -1,0 +1,7 @@
+# list of files that should not be monitored
+
+components/
+dist/
+node_modules/
+package-lock.json
+*.log
